@@ -1,5 +1,6 @@
 # Revolt Motors AI Assistant
 
+
 This project implements a voice-controlled AI assistant specifically tailored for Revolt Motors, demonstrating a server-to-server architecture for interacting with the Google Gemini Live API.
 
 ## Features
